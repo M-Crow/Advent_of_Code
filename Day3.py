@@ -111,6 +111,6 @@ def part2():
 
 
 
-print("Answer to part 1: ", part1())
-print("Answer to part 2: ", part2())
+print(part1())
+print(part2())
 

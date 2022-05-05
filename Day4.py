@@ -122,6 +122,6 @@ def getScore(board):
 
 winningScore = getScore(winningBoard)
 
-print("The winning board is at ", winningBoard)
+print(winningBoard)
 
-print("The winning score is ", winningScore)
+print(winningScore)
